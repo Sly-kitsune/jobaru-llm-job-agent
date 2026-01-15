@@ -1,0 +1,24 @@
+John Doe
+Software Engineer
+San Francisco, CA | john.doe@example.com
+
+SUMMARY
+Experienced Software Engineer with 5 years of experience in Python, AWS, and Cloud Architecture. Passionate about building scalable systems and AI agents.
+
+SKILLS
+- Languages: Python, JavaScript, SQL
+- Cloud: AWS (EC2, Lambda, S3), Docker, Kubernetes
+- AI: PyTorch, OpenAI API, Ollama, LangChain
+
+EXPERIENCE
+Software Engineer | Tech Corp | 2020 - Present
+- Designed and moved microservices to AWS, reducing costs by 30%.
+- Implemented a CI/CD pipeline using GitHub Actions.
+- Developed an internal AI tool to automate documentation.
+
+Junior Developer | StartUp Inc | 2018 - 2020
+- Built REST APIs using Flask and PostgreSQL.
+- Collaborated with frontend teams to integrate React components.
+
+EDUCATION
+B.S. Computer Science | University of Technology | 2018

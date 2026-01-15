@@ -1,0 +1,7 @@
+Senior Python Developer needed.
+We are looking for a Python expert to join our backend team.
+Requirements:
+- 5+ years of Python experience.
+- Experience with AWS and Docker.
+- Good communication skills.
+- Knowledge of AI/ML is a plus.
