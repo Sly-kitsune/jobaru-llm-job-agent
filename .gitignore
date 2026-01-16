@@ -1,16 +1,10 @@
-# Generated application files
-applications/
-debug_log.txt
-
-# Python cache
 __pycache__/
-*.py[cod]
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Virtual environments
-venv/
-env/
+*.pyc
+config.json
+resume.txt
+Resume.pdf
+applications/
+.wdm/
 .env
+venv/
+*.log

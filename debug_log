@@ -1,0 +1,4 @@
+Running python script... 
+----------------------- 
+usage: main.py [-h] [--mode {draft,apply}] [--resume RESUME] [--model MODEL]
+main.py: error: unrecognized arguments: --job sample_job.txt
